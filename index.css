@@ -1,3 +1,16 @@
 body {
     font-family: 'Space Mono',monospace;
+    background-color: #fdf9fd;
+}
+h1 {
+    font-size: 100px;
+    line-height: 1;
+    font-weight: normal;
+
+}
+h2{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
 }
